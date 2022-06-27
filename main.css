@@ -1,0 +1,19 @@
+body {
+    background-image: url(img.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: start;
+    font-weight: bold;
+    font-size: 100px;
+    margin-top: 70px;
+}
+p {
+    color: white;
+    align-self: center;
+    font-size: 200%;
+    font-weight: bold;
+    margin-top: 500px;
+}
